@@ -1,0 +1,7 @@
+article:
+  author:
+    linkedin: "https://www.linkedin.com/in/noashavit/"
+    name: "Sync Computing"
+    twitter: "https://twitter.com/synccomputing"
+  link: "https://synccomputing.com/duckdb-snowflake-databricks/"
+  tags: "duckdb,snowflake,databricks"
