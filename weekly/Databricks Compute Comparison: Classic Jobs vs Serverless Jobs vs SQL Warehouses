@@ -1,0 +1,7 @@
+article:
+  author:
+    linkedin: https://www.linkedin.com/in/jeffchoumit
+    name: Jeff Chou
+    twitter: https://x.com/synccomputing
+  link: https://synccomputing.com/databricks-compute-comparison-classic-serverless-and-sql-warehouses/
+  tags: "databricks, sql jobs, databricks serverless, databricks classic"
